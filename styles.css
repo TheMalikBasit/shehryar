@@ -200,4 +200,9 @@ p{
     #top{
         display: none;
     }
+    
+    .media-icons{
+        display: none;
+    }
+}
 }
