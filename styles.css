@@ -172,12 +172,6 @@ p{
 .media-icons a:hover{
     transform: scale(1.3);
 }
-.bottom-div{
-    padding: 10% 20%;
-    background: linear-gradient(135deg, #ffbf87 30%, #f7ae1b);
-    position: absolute;
-    bottom: 0;
-}
 @media(max-width: 945px){
 
 
@@ -260,9 +254,7 @@ p{
     #top{
         display: none;
     }
-
     .media-icons{
-        display: none;
-        
+        display: none;   
     }
 }
